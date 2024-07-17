@@ -1,0 +1,12 @@
+.buttons{
+    :first-child{
+        background-color: $button1;
+    }
+    :nth-child(2)
+    {
+        background-color: $button2;
+    }
+    :last-child{
+        background-color: $button3;
+    }
+}

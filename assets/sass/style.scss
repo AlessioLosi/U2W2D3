@@ -1,1 +1,10 @@
-@import url(partials/_reset.scss);
+@import 'partials/reset';
+@import 'partials/color';
+@import 'partials/space';
+@import 'partials/buttons';
+
+
+
+img{
+    width: 100px;
+}
